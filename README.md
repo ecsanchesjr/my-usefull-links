@@ -28,6 +28,7 @@
 
 * [PHP - The Right Way](http://www.phptherightway.com)
 * [PHP - The Wrong Way](http://www.phpthewrongway.com)
+* [Learn Laravel - LaraCasts](https://laracasts.com)
 
 ### Python
 
