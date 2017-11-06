@@ -17,6 +17,7 @@
 * [AwesomeBr](http://awesome-br.com/#/) > Various tutorials for programmers (pt_BR)
 * [Syncfusion E-books](https://www.syncfusion.com/resources/techportal/ebooks?utm_source=Facebook&utm_medium=FacebookAd&utm_campaign=E-book) > Various e-books free to download
 * [EbookFundation Free Programming Ebooks (GitHub)](https://github.com/EbookFoundation/free-programming-books) 
+* [EbookFundarion Free Programming Ebooks (BR)](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md)
 
 # Programming Languages
 
